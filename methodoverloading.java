@@ -3,7 +3,7 @@ class methodoverloading{
     {
    calculater calc=new calculater();
    System.out.println(calc.sum(1,2));
-   System.out.println(calc.sum((float)1.5,(float)2.5);
+   System.out.println(calc.sum((float)1.5,(float)2.5));
    System.out.println(calc.sum(2,3,4));
 
     }

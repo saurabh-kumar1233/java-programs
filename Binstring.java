@@ -4,6 +4,7 @@ public class Binstring {
         if(n==0)
         {
             System.out.println(str);
+            
         }
 
         //kaam

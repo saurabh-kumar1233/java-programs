@@ -3,8 +3,8 @@ public class Calculate {
     
     public static void main(String args[]){
         int a=5,b=6;
-        Scanner sc= new Scanner(System.in);
-         int choice=sc.nextInt();
+        Scanner Sc = new Scanner(System.in);
+         int choice=Sc.nextInt();
         switch (choice){
             case 1:
             System.out.println(a+b);

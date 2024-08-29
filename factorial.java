@@ -1,6 +1,6 @@
 class factorial{
     
-    public static int factorial(int number)
+    public static int factorial (int number)
     {
          int i;
          int fact=1;
@@ -13,5 +13,4 @@ class factorial{
     factorial(number);
     System.out.println(factorial);
 }}
-
     
